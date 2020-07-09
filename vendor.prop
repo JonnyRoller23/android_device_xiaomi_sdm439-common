@@ -85,6 +85,7 @@ persist.debug.coresight.config=stm-events
 ro.config.dha_tunnable=1
 
 # Display
+debug.cpurend.vsync=false
 debug.egl.hw=0
 debug.hwui.renderer=skiagl
 debug.enable.sglscale=1
